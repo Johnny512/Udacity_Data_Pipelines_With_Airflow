@@ -1,1 +1,1 @@
-#Each operator was created to perform either a SQL statement or test for data.
+# Each operator was created to perform either a SQL statement or test for data.
